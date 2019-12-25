@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: beige;
+}
+.weather {
+    width: 35%;
+    padding-bottom: 20px;
+    text-align: center;
+}
+h1 {
+    color: green;
+    font-size: 60px;
+    font-style: italic;
+    text-align: center;
+}
+.weather {
+    line-height: 40px;
+    font-size: 30px;
+    font-style: italic;
+color: darkgreen;
+}
